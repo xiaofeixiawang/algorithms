@@ -1,0 +1,2 @@
+![image](http://github/com/xiaofeixiawang/algorithms/exercise/exercise_analysis_of_algorithms/1.jpg)
+![image](http://github/com/xiaofeixiawang/algorithms/exercise/exercise_analysis_of_algorithms/2.jpg)
